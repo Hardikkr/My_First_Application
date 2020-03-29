@@ -8,4 +8,4 @@ And can again come back to the first page by clicking the back button.
 
 ## Project Images
 
-<img src="https://user-images.githubusercontent.com/61787056/77789260-b3a4b300-7088-11ea-835d-f0478adf49f0.jpg" width=600 height=1000> <img src="https://user-images.githubusercontent.com/61787056/77789320-ce772780-7088-11ea-8a6b-f162b3d027ea.jpg" width=600 height=1000>
+<img src = "https://user-images.githubusercontent.com/61787056/77848483-b3b8c600-71e2-11ea-8c48-4b8fc6556ff1.jpg" width = 750 height = 700>
