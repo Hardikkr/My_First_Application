@@ -4,4 +4,4 @@
 
 # Project Images
 
-<img src = "https://user-images.githubusercontent.com/61787056/77848483-b3b8c600-71e2-11ea-8c48-4b8fc6556ff1.jpg" width = 750 height = 700>
+<img src = "ss1.jpg">
